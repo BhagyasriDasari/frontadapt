@@ -9,3 +9,5 @@ Technologies Used
 React: JavaScript library for building user interfaces.
 Recharts: Charting library for creating line and pie charts.
 CSS: Styling for layout and design.
+
+Deployed link:https://dashboardfrontadapt.netlify.app/
